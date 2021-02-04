@@ -3,7 +3,7 @@
 My name is Lidhin C Sukumaran. I'm a computer science graduate. I'm a tech enthusiastic and a lover of coding. I'm very passionate about developing applications and website.
 
 <!--
-**LidhinCS/LidhinCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LidhinCS/LidhinCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lidhins31@gmail.com...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
