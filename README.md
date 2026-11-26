@@ -169,14 +169,13 @@ Applications integrating conversational AI, speech recognition, and AI-driven fu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LidhinCS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidhinCS&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=LidhinCS&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidhinCS&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LidhinCS&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🌱 Currently Exploring
